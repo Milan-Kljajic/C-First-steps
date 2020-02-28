@@ -1,0 +1,10 @@
+C:\Users\Milan\Desktop\CSV\CSVtoDGV\CSVtoDGV\obj\Debug\CSVtoDGV.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\CSV\CSVtoDGV\CSVtoDGV\obj\Debug\CSVtoDGV.Properties.Resources.resources
+C:\Users\Milan\Desktop\CSV\CSVtoDGV\CSVtoDGV\obj\Debug\CSVtoDGV.csproj.GenerateResource.cache
+C:\Users\Milan\Desktop\CSV\CSVtoDGV\CSVtoDGV\obj\Debug\CSVtoDGV.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\CSV\CSVtoDGV\CSVtoDGV\obj\Debug\csvtodatagrid.Form1.resources
+C:\Users\Milan\Desktop\CSV\CSVtoDGV\CSVtoDGV\bin\Debug\CSVtoDGV.exe.config
+C:\Users\Milan\Desktop\CSV\CSVtoDGV\CSVtoDGV\bin\Debug\CSVtoDGV.exe
+C:\Users\Milan\Desktop\CSV\CSVtoDGV\CSVtoDGV\bin\Debug\CSVtoDGV.pdb
+C:\Users\Milan\Desktop\CSV\CSVtoDGV\CSVtoDGV\obj\Debug\CSVtoDGV.exe
+C:\Users\Milan\Desktop\CSV\CSVtoDGV\CSVtoDGV\obj\Debug\CSVtoDGV.pdb
